@@ -9,7 +9,7 @@ Hello, I'm a passionate 16-year-old game developer hailing from Chicago, Illinoi
   - Mastered Lua, Lua U, and Python.
 - **Experience with Development Tools**:
   - Proficient in Rojo and Knit for seamless game development.
-  - Skilled in utilizing Visual Studio and Git for efficient coding practices.
+  - Skilled in utilizing Visual Studio Code and Git for efficient coding practices.
 - **Server Management and Linux Proficiency**: Well-versed in server management and comfortable navigating Linux environments.
 
 ### Contact Information
