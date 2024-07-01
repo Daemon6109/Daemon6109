@@ -2,7 +2,7 @@
 Hello, I'm a passionate 16-year-old game developer hailing from Chicago, Illinois, with a love for creating immersive gaming experiences. Currently, I'm dedicated to crafting "Fire Wheels," a dynamic Roblox game that's shaping up to be a thrilling adventure. My expertise lies in programming languages such as Lua, Lua U, and Python, with a burgeoning interest in mastering JavaScript, C, and C#. Additionally, I'm delving into the world of 3D modeling, aspiring to become proficient in this realm.
 
 ### Achievements
-- **CEO of Cooked Development**: Founder of Cooked Development."
+- **CEO of Cooked Development**: Founder of Cooked Development.
 - **Front Page Recognition**: Achieved recognition as a front-page game developer.
 - **Contributed to 280+ Million Visits**: Contributed significantly to games with over 184 million visits.
 - **Mastery in Programming Languages**:
