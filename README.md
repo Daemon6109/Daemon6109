@@ -5,6 +5,7 @@ Hello, I'm a passionate 16-year-old game developer hailing from Chicago, Illinoi
 - **CEO of Cooked Development**: Founder of Cooked Development.
 - **Front Page Recognition**: Achieved recognition as a front-page game developer.
 - **Contributed to 280+ Million Visits**: Contributed significantly to games with over 184 million visits.
+- **Official Roblox Beta Tester**: I am in the Roblox Beta Testing program and I get paid to find bugs and give input.
 - **Mastery in Programming Languages**:
   - Mastered Lua, Lua U, and Python.
 - **Experience with Development Tools**:
