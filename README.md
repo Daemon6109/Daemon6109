@@ -1,5 +1,5 @@
 ### Introduction
-Hello, I'm a passionate 16-year-old game developer hailing from Chicago, Illinois, with a love for creating immersive gaming experiences. Currently, I'm dedicated to crafting "Fire Wheels," a dynamic Roblox game that's shaping up to be a thrilling adventure. My expertise lies in programming languages such as Lua, Lua U, and Python, with a burgeoning interest in mastering JavaScript, C, and C#. Additionally, I'm delving into the world of 3D modeling, aspiring to become proficient in this realm.
+Hello, I'm a passionate 16-year-old game developer hailing from Chicago, Illinois, with a love for creating immersive gaming experiences. My expertise lies in programming languages such as Lua, Lua U, and Python, with a burgeoning interest in mastering JavaScript, C, and C#. Additionally, I'm delving into the world of 3D modeling, aspiring to become proficient in this realm.
 
 ### Achievements
 - **CEO of Cooked Development**: Founder of Cooked Development.
@@ -8,7 +8,7 @@ Hello, I'm a passionate 16-year-old game developer hailing from Chicago, Illinoi
 - **Mastery in Programming Languages**:
   - Mastered Lua, Lua U, and Python.
 - **Experience with Development Tools**:
-  - Proficient in Rojo, Knit and Fusion for seamless game development.
+  - Proficient in Rojo and Fusion for seamless game development.
   - Skilled in utilizing Visual Studio Code and Git for efficient coding practices.
 - **Server Management and Linux Proficiency**: Well-versed in server management and comfortable navigating Linux environments.
 
