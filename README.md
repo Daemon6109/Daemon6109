@@ -30,33 +30,15 @@
     <a href="https://luau.org/" target="_blank">
         <img style="margin: 20px;" src="https://luau.org/assets/images/luau-88.png" alt="Luau" height="50" />
     </a>   
-    <a href="https://www.lua.org/" target="_blank">
-        <img style="margin: 20px;" src="https://www.lua.org/images/luaa.gif" alt="Lua" height="50" />
-    </a>   
     <a href="https://rojo.space/" target="_blank">
         <img style="margin: 20px;" src="https://rojo.space/img/logo.png" alt="Rojo" height="50" />
     </a>   
     <a href="https://wally.run/" target="_blank">
         <img style="margin: 20px;" src="https://wally.run/_next/static/media/wally-logo.9d5dca56.svg" alt="Wally" height="50" />
     </a>   
-    <a href="https://aws.amazon.com/" target="_blank">
-        <img style="margin: 20px;" src="https://github.com/user-attachments/assets/14ec5163-e06d-4a53-b75c-a30fb565f86e" alt="AWS" height="50" />
-    </a>  
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img style="margin: 20px;" src="https://github.com/user-attachments/assets/a0e0cde1-9940-4d45-9845-adddaa61b691" alt="MongoDB" height="50" />
-    </a>  
     <a href="https://www.python.org/" target="_blank">
         <img style="margin: 20px;" src="https://github.com/user-attachments/assets/3fc83f6d-22db-41c1-883b-1c31622748f3" alt="Python" height="50" />
-    </a>   
-    <a href="https://www.docker.com/" target="_blank">
-        <img style="margin: 20px;" src="https://github.com/user-attachments/assets/04717455-a35b-4600-83b5-440b58c6a2f5" alt="Docker" height="50" />
-    </a>  
-    <a href="https://www.mysql.com/" target="_blank">
-        <img style="margin: 20px;" src="https://github.com/user-attachments/assets/96e07d28-6d16-4ebf-8312-65a601d88660" alt="MySQL" height="50" />
-    </a>  
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img style="margin: 20px;" src="https://github.com/user-attachments/assets/650228ec-82a6-4c06-9b0f-617afaac43a6" alt="PostgreSQL" height="50" />
-    </a>  
+    </a>
 </div>
 
 <h3>🔥 Stats 🔥</h3>
