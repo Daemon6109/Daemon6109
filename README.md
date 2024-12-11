@@ -49,3 +49,9 @@
         <img style="margin: 20px" src="https://github.com/user-attachments/assets/650228ec-82a6-4c06-9b0f-617afaac43a6" alt="PostgreSQL" height="50" />
     </a>  
 </div>
+
+<h3>🔥 Stats 🔥</h3>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achris-alonzo30&layout=compact&hide_border=true&theme=transparent" align="center" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=achris-alonzo30&theme=transparent&hide_border=true" align="center" />
+</div>  
