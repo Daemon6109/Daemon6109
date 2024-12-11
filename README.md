@@ -1,20 +1,51 @@
-### Introduction
-Hello, I'm a passionate 16-year-old game developer hailing from Chicago, Illinois, with a love for creating immersive gaming experiences. My expertise lies in programming languages such as Lua, Lua U, and Python, with a burgeoning interest in mastering JavaScript, C, and C#. Additionally, I'm delving into the world of 3D modeling, aspiring to become proficient in this realm.
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" alt="Profile Banner" style="width: 100%" />
+</div>
 
-### Achievements
-- **CEO of Cooked Development**: Founder of Cooked Development.
-- **Front Page Recognition**: Achieved recognition as a front-page game developer.
-- **Contributed to 280+ Million Visits**: Contributed significantly to games with over 184 million visits.
-- **Official Roblox Beta Tester**: I am in the Roblox Beta Testing program and I get paid to find bugs and give input.
-- **Mastery in Programming Languages**:
-  - Mastered Lua, Lua U, and Python.
-- **Experience with Development Tools**:
-  - Proficient in Rojo and Fusion for seamless game development.
-  - Skilled in utilizing Visual Studio Code and Git for efficient coding practices.
-- **Server Management and Linux Proficiency**: Well-versed in server management and comfortable navigating Linux environments.
+<h3 align="center">Hi, I'm Matthew 👋 I'm a full-stack developer and entrepreneur passionate about creating solutions.</h3>
 
-### Contact Information
-- **Discord**: @6109
-- **Twitter**: @NotNice6109
+<p align="left">
+    🎓 Currently a high school student.<br>
+    🧠 I'm a quick learner and love exploring new technologies.<br>
+    💪 Proficient in both front-end and back-end, bringing creative ideas to code.<br>
+    🏋‍♂️ Besides programming, I enjoy weightlifting, video games, and spending quality time with my family and friends.
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daemon6109&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+
+<h2 align="left">💻 Tech Stacks 💻</h2>
+
+<h3>Frontend</h3>
+<div align="start">  
+    <a href="https://www.figma.com/" target="_blank">
+        <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+    </a>
+    <a href="https://elttob.uk/Fusion/" target="_blank">
+        <img style="margin: 20px" src="https://elttob.uk/Fusion/0.3/assets/logo-dark.svg" alt="Fusion" height="50" />
+    </a>
+</div>
+
+<h3>Backend</h3>
+<div align="start">  
+    <a href="https://luau.org" target="_blank">
+        <img style="margin: 20px" src="https://luau.org/assets/images/luau-88.png" alt="Luau" height="50" />
+    </a>   
+    <a href="https://aws.amazon.com/" target="_blank">
+        <img style="margin: 20px" src="https://github.com/user-attachments/assets/14ec5163-e06d-4a53-b75c-a30fb565f86e" alt="AWS" height="50" />
+    </a>  
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img style="margin: 20px" src="https://github.com/user-attachments/assets/a0e0cde1-9940-4d45-9845-adddaa61b691" alt="MongoDB" height="50" />
+    </a>  
+    <a href="https://www.python.org/" target="_blank">
+        <img style="margin: 20px" src="https://github.com/user-attachments/assets/3fc83f6d-22db-41c1-883b-1c31622748f3" alt="Python" height="50" />
+    </a>   
+    <a href="https://www.docker.com/" target="_blank">
+        <img style="margin: 20px" src="https://github.com/user-attachments/assets/04717455-a35b-4600-83b5-440b58c6a2f5" alt="Docker" height="50" />
+    </a>  
+    <a href="https://www.mysql.com/" target="_blank">
+        <img style="margin: 20px" src="https://github.com/user-attachments/assets/96e07d28-6d16-4ebf-8312-65a601d88660" alt="MySQL" height="50" />
+    </a>  
+    <a href="https://www.postgresql.org/" target="_blank">
+        <img style="margin: 20px" src="https://github.com/user-attachments/assets/650228ec-82a6-4c06-9b0f-617afaac43a6" alt="PostgreSQL" height="50" />
+    </a>  
+</div>
