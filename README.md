@@ -43,6 +43,6 @@
 
 <h3>🔥 Stats 🔥</h3>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achris-alonzo30&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" align="center" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=achris-alonzo30&theme=transparent&hide_border=true" alt="Streak Stats" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daemon6109&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" align="center" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=daemon6109&theme=transparent&hide_border=true" alt="Streak Stats" align="center" />
 </div>
