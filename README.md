@@ -13,7 +13,7 @@
 
 <h3>Frontend</h3>
 <div align="left">  
-    <a href="Vide" target="_blank">
+    <a href="https://centau.github.io/vide/" target="_blank">
         <img style="margin: 20px;" src="https://github.com/centau/vide/blob/main/docs/public/logo.svg" alt="Vide" height="50" />
     </a>
 </div>
